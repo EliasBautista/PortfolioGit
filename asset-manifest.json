@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/PortfolioGit/static/css/main.9f635d80.chunk.css",
+    "main.js": "/PortfolioGit/static/js/main.130a931e.chunk.js",
+    "main.js.map": "/PortfolioGit/static/js/main.130a931e.chunk.js.map",
+    "runtime-main.js": "/PortfolioGit/static/js/runtime-main.2e8f4a3a.js",
+    "runtime-main.js.map": "/PortfolioGit/static/js/runtime-main.2e8f4a3a.js.map",
+    "static/css/2.c81a2164.chunk.css": "/PortfolioGit/static/css/2.c81a2164.chunk.css",
+    "static/js/2.7863a10a.chunk.js": "/PortfolioGit/static/js/2.7863a10a.chunk.js",
+    "static/js/2.7863a10a.chunk.js.map": "/PortfolioGit/static/js/2.7863a10a.chunk.js.map",
+    "static/js/3.e81f1ec9.chunk.js": "/PortfolioGit/static/js/3.e81f1ec9.chunk.js",
+    "static/js/3.e81f1ec9.chunk.js.map": "/PortfolioGit/static/js/3.e81f1ec9.chunk.js.map",
+    "index.html": "/PortfolioGit/index.html",
+    "static/css/2.c81a2164.chunk.css.map": "/PortfolioGit/static/css/2.c81a2164.chunk.css.map",
+    "static/css/main.9f635d80.chunk.css.map": "/PortfolioGit/static/css/main.9f635d80.chunk.css.map",
+    "static/js/2.7863a10a.chunk.js.LICENSE.txt": "/PortfolioGit/static/js/2.7863a10a.chunk.js.LICENSE.txt",
+    "static/media/AboutMe.css": "/PortfolioGit/static/media/Elias.d5946d69.jpg",
+    "static/media/Profile.css": "/PortfolioGit/static/media/Elias3.124a014d.png",
+    "static/media/index.css": "/PortfolioGit/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/Services.css": "/PortfolioGit/static/media/bg-1.e7a118c3.jpg",
+    "static/media/Home.css": "/PortfolioGit/static/media/bg.fc25d620.jpg",
+    "static/media/briefcase.svg": "/PortfolioGit/static/media/briefcase.89aab774.svg",
+    "static/media/education.svg": "/PortfolioGit/static/media/education.10cfa28a.svg",
+    "static/media/interests.svg": "/PortfolioGit/static/media/interests.809890a3.svg",
+    "static/media/mailz.d13d5e32.jpeg": "/PortfolioGit/static/media/mailz.d13d5e32.jpeg",
+    "static/media/maletin.svg": "/PortfolioGit/static/media/maletin.8a35dc53.svg",
+    "static/media/programming-skills.svg": "/PortfolioGit/static/media/programming-skills.d19983a9.svg",
+    "static/media/projects.svg": "/PortfolioGit/static/media/projects.2b352a52.svg",
+    "static/media/work-history.svg": "/PortfolioGit/static/media/work-history.a566475d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e8f4a3a.js",
+    "static/css/2.c81a2164.chunk.css",
+    "static/js/2.7863a10a.chunk.js",
+    "static/css/main.9f635d80.chunk.css",
+    "static/js/main.130a931e.chunk.js"
+  ]
+}
